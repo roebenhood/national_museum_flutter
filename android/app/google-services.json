@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697476361268",
+    "firebase_url": "https://museum-26423.firebaseio.com",
+    "project_id": "museum-26423",
+    "storage_bucket": "museum-26423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697476361268:android:46381b56137216d9976e61",
+        "android_client_info": {
+          "package_name": "com.roebenhood.national_museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697476361268-8a21ojp5nj6tp6q3iun4lkftpggba5am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGaNBjEzegYKVvi1r0ObnUSaDrL-VnrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697476361268-8a21ojp5nj6tp6q3iun4lkftpggba5am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
